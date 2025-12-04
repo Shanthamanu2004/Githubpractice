@@ -8,7 +8,7 @@ public class Class1test {
 	@Test
 	private void class1() {
 		Reporter.log(">>>>>>>>>>>>>hey meghana >>>>>>>>>>>>>>",true);
-		Reporter.log(">>>>>>>>>>>>>hey meghana >>>>>>>>>>>>>>",true);
+		Reporter.log(">>>>>>>>>>>>>hey bhavana* >>>>>>>>>>>>>>",true);
 	}
 
 }
